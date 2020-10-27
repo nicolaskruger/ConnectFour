@@ -1,0 +1,1 @@
+{"version":3,"file":"msgView.js","sourceRoot":"","sources":["../../src/view/msgView.ts"],"names":[],"mappings":"AAAA,MAAM,OAAQ,SAAQ,IAAI;IACtB,YAAY,QAAoB;QAC5B,KAAK,CAAC,QAAQ,CAAC,CAAC;IACpB,CAAC;IACD,QAAQ,CAAC,KAAS;QACf,OAAO,iBAAiB,KAAK,CAAC,GAAG,mBAAmB,KAAK,CAAC,KAAK,OAAO,KAAK,CAAC,GAAG,MAAM,CAAC;IACzF,CAAC;CACJ"}
